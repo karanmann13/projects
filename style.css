@@ -43,3 +43,10 @@
     bottom: -12em;
     right: 50em;
 }
+
+.card2 {
+    transform: scale(0.18);
+    position: absolute;
+    bottom: -12em;
+    right: 35em;
+}
