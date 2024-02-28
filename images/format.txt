@@ -1,0 +1,4 @@
+photo-pea
+background: black
+big font: noto serif semc ; blk italic ; 51 px ; white
+small font: trirong ; thin ; 42 px ; white
